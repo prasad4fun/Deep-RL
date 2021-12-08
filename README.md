@@ -1,2 +1,2 @@
 # Deep-RL
-Udacity nanodegree exercises
+My udacity nanodegree solutions
